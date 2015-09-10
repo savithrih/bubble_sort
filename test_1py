@@ -1,0 +1,6 @@
+x = [4, 6]
+for i in range(0,len(x)):
+	for y in range(0,len(x)):
+	y =0
+    print x[i] * "*"
+    y+=1
