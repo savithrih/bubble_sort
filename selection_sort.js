@@ -10,7 +10,7 @@ for(i=0; i<array_len;i++)
 		min=j;
 	}
   }
-  if(i!=j)
+  if(i!=min)
   {
    var temp = a[i];
    a[i] =a[min];
